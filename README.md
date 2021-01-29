@@ -2,13 +2,6 @@
 
 According to Noam Chomosky, there are four types of grammars − Type 0, Type 1, Type 2, and Type 3.
 
-differ as follows:
-
-Grammar Type	Grammar Accepted	Automaton
-Type 0	Unrestricted grammar	Turing Machine
-Type 1	Context-sensitive grammar	Linear-bounded automaton
-Type 2	Context-free grammar	Pushdown automaton
-Type 3	Regular grammar	Finite state automaton
 Type 3 - Regular Languages
 As we have discussed, a regular language is one which can be represented by a regular grammar, described using a regular expression, or accepted using an NFA or a DFA.
 
