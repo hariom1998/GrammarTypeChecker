@@ -1,4 +1,4 @@
-# CHOMSKY Grammar Type-Checker
+# CHOMSKY Grammar Type-Checker JAVA Program
 
 According to Noam Chomosky, there are four types of grammars − Type 0, Type 1, Type 2, and Type 3.
 
